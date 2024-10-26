@@ -10,7 +10,7 @@ To start backend (show data):
 To start front end:
 
 1. Open a separate terminal window
-2. cd into Backenddata folder
+2. cd into Backendcall folder
 3. cd into frontend folder
 3. npm install
 4. npm start
