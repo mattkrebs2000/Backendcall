@@ -19,7 +19,9 @@ To start front end:
 3. cd into frontend folder
 3. npm install
 4. npm start
-5. open up dev tools and console
-6. press button to see error. 
+5. When it says that 3000 is being used and asked if you would like to use soomething else say "Yes"
+6. open up dev tools and console
+7. press button to see error. 
+
 
 
