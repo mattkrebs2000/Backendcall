@@ -1,3 +1,8 @@
+Clone Repo 
+
+git clone https://github.com/mattkrebs2000/Backendcall.git
+
+
 Assuming Node is Installed
 
 To start backend (show data):
